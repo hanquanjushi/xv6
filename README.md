@@ -1,1 +1,1 @@
-# labs of MIT 6.828, 2023
+# Labs of MIT 6.828, 2023
